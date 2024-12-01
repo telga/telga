@@ -13,5 +13,5 @@ Skills: Vue.js/React.js/Node.js/HTML/CSS/Python/Java/JavaScript/WSL/Linux (Arch,
 
 Visit me at my website: https://brianguyen.works
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=telga)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://streak-stats.demolab.com/?user=telga)  
-
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
