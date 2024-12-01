@@ -13,6 +13,6 @@ Skills: Vue.js/React.js/Node.js/HTML/CSS/Python/Java/JavaScript/WSL/Linux (Arch,
 
 Visit me at my website: https://brianguyen.works
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wyh9unb2xog9gsoclczv2ga72&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wyh9unb2xog9gsoclczv2ga72&redirect=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=telga&layout=compact&theme=dark&hide_border=true)
