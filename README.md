@@ -1,5 +1,5 @@
 ### Hi there 👋, Hi there! I'm Brian
-#### I am GitHub Readme Generator's creator
+![](https://media.licdn.com/dms/image/v2/D5616AQFT1LqNuYqdug/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715952204363?e=1738800000&v=beta&t=T8fFo-WgaUsR8gNS2KOPeHMYSFSx47tMqMLM0JGNfGY)
 
 I'm a web developer with nearly a decade of experience navigating the ever-evolving world of computers (software and hardware). I thrive on exploring new ideas, experimenting with solutions, and learning through trial (and plenty of error). For me, every challenge is a chance to discover creative ways to make things work—or to stumble upon the next exciting project.
 
