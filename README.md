@@ -13,4 +13,4 @@ Skills: Vue.js/React.js/Node.js/HTML/CSS/Python/Java/JavaScript/WSL/Linux (Arch,
 
 Visit me at my website: https://brianguyen.works
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wyh9unb2xog9gsoclczv2ga72&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wyh9unb2xog9gsoclczv2ga72&redirect=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=telga&layout=compact&theme=dark&hide_border=true)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wyh9unb2xog9gsoclczv2ga72&count={count}) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=telga&layout=compact&theme=dark&hide_border=true)
