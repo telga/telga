@@ -9,7 +9,7 @@ Skills: Vue.js/React.js/Node.js/HTML/CSS/Python/Java/JavaScript/WSL/Linux (Arch,
 
 - 🔭 I’m currently working on the Smile of Compassion Site Redesign 
 - 📫 How to reach me: shoot me an email @ briann2305@gmail.com 
-- ⚡ Fun fact: I'm Alberta's 2024 RDTN Light-Welterweight Champion  
+- ⚡ Fun fact: I'm Alberta's 2024 RDTN Amateur Boxing League Light-Welterweight Champion  
 
 Visit me at my website: https://brianguyen.works
 
