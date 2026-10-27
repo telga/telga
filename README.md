@@ -11,6 +11,6 @@ Skills: Vue.js/React.js/Node.js/HTML/CSS/Python/Java/JavaScript/WSL/Linux (Arch,
 - 📫 How to reach me: shoot me an email @ briann2305@gmail.com 
 - ⚡ Fun fact: I'm Alberta's 2024 RDTN Amateur Boxing League Light-Welterweight Champion  
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wyh9unb2xog9gsoclczv2ga72&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wyh9unb2xog9gsoclczv2ga72&redirect=true)
+[![portfolio-ii](https://briangn.runs-on.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=telga&layout=compact&theme=dark&hide_border=true)
