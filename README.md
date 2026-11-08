@@ -7,10 +7,4 @@ I’m passionate about continuous learning, collaboration, and turning big ideas
 
 Skills: Vue.js/React.js/Node.js/HTML/CSS/Python/Java/JavaScript/WSL/Linux (Arch, Ubuntu)
 
-- 🔭 I’m currently working on the Smile of Compassion Site Redesign 
-- 📫 How to reach me: shoot me an email @ briann2305@gmail.com 
-- ⚡ Fun fact: I'm Alberta's 2024 RDTN Amateur Boxing League Light-Welterweight Champion  
-
 [portfolio-ii](https://briangn.runs-on.dev)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=telga&layout=compact&theme=dark&hide_border=true)
